@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/SayantanDey29/SayantanDey29/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.gif)
 <h1 align="center">Hi 👋😎, I'm Sayantan Dey</h1>
 <h3 align="center">A computer science engineering student from Haldia Institute of Technology</h3>
 
