@@ -1,4 +1,4 @@
-![logo](https://github.com/SayantanDey29/SayantanDey29/blob/main/Banner.gif)
+![logo](https://github.com/SayantanDey29/SayantanDey29/blob/main/BannerPhoto.gif)
 <h1 align="center">Hi 👋😎, I'm Sayantan Dey</h1>
 <h3 align="center">A computer science engineering student from Haldia Institute of Technology</h3>
 
