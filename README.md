@@ -3,6 +3,7 @@
 <h3 align="center">A computer science engineering student from Haldia Institute of Technology</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/SayantanDey29/SayantanDey29/blob/main/post.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantandey&label=Profile%20views&color=0e75b6&style=flat" alt="sayantandey" /> </p>
 
