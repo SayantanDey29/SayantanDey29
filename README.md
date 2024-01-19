@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://sayantandey29.github.io/)
+<!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://sayantandey29.github.io/) -->
 
 - 📫 How to reach me **sayantandey0429@gmail.com**
 
