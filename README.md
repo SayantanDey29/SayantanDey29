@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sayantandey0429@gmail.com**
 
-- 📄 Know about my from [My Resume](https://drive.google.com/file/d/1HXqa6zMUm_HTt4U9GDURcH4Ul4CqKl8k/view?usp=sharing)
+- 📄 Know about me from [My Resume](https://drive.google.com/file/d/1HXqa6zMUm_HTt4U9GDURcH4Ul4CqKl8k/view?usp=sharing)
 
 - ⚡ Fun fact **😂😂😂😂**
 
