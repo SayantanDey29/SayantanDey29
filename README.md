@@ -6,13 +6,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantandey&label=Profile%20views&color=0e75b6&style=flat" alt="sayantandey" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Data Analysis and Web Development**
 
 <!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://sayantandey29.github.io/) -->
 
 - 📫 How to reach me **sayantandey0429@gmail.com**
 
-- 📄 Know about my skills from [My Resume](https://drive.google.com/file/d/1Z4jcPZVSMujhGFn7SvC1NlqGTQCoSGda/view?usp=sharing)
+- 📄 Know about my from [My Resume](https://drive.google.com/file/d/1HXqa6zMUm_HTt4U9GDURcH4Ul4CqKl8k/view?usp=sharing)
 
 - ⚡ Fun fact **😂😂😂😂**
 
