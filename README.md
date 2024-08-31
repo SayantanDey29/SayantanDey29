@@ -1,12 +1,12 @@
 ![logo](https://github.com/SayantanDey29/SayantanDey29/blob/main/Git_Banner.gif)
 
 <h1 align="center">Hi 👋😎, I'm Sayantan Dey</h1>
-<h3 align="center">A computer science engineering student from Haldia Institute of Technology</h3>
+<h3 align="center">Assistant System Engineer at Capsitech</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantandey&label=Profile%20views&color=0e75b6&style=flat" alt="sayantandey" /> </p>
 
-- 🌱 I’m currently learning **Data Analysis and Web Development**
+- 🌱 I’m currently learning **Machine learning and Deep learning**
 
 <!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://sayantandey29.github.io/) -->
 
