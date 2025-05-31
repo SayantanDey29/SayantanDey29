@@ -1,4 +1,4 @@
-![logo](https://github.com/SayantanDey29/SayantanDey29/blob/main/git_banner.gif)
+![logo](https://github.com/SayantanDey29/SayantanDey29/blob/main/Banner.gif)
 
 <h1 align="center">Hi 👋😎, I'm Sayantan Dey</h1>
 <h3 align="center">Assistant System Engineer at Capsitech</h3>
