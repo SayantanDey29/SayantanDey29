@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sayantandey0429@gmail.com**
 
-- 📄 Know about me from [My Resume](https://drive.google.com/file/d/1k06eBsC-wNYekccTenZSTZ8CkXtilSDL/view?usp=sharing)
+- 📄 Know about me from [My Resume](https://drive.google.com/file/d/1eljhm5KrtdyoszGjYZhg8mIY2e0rAlgV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
