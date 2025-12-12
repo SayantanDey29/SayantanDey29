@@ -15,6 +15,7 @@ I believe in continuous learning, research-oriented experimentation, and buildin
 - Resume:- [View Resume](https://drive.google.com/file/d/1eljhm5KrtdyoszGjYZhg8mIY2e0rAlgV/view?usp=sharing)
 - You can find me on [LinkedIn](https://www.linkedin.com/in/sayantandey29)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <h3 align="left">Programming Languages :</h3>
 <p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
