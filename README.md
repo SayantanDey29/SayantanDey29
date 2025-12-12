@@ -9,14 +9,11 @@ I believe in continuous learning, research-oriented experimentation, and buildin
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantandey&label=Profile%20views&color=0e75b6&style=flat" alt="sayantandey" /> </p>
-
-- 🌱 I am currently learning **Machine Learning, Deep Learning, Computer Vision, and Generative AI**.
-
 <!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://sayantandey29.github.io/) -->
 
-- 📫 How to reach me **sayantandey0429@gmail.com**
+- Email ID:- **sayantandey0429@gmail.com**
 
-- 📄 Know about me from [My Resume](https://drive.google.com/file/d/1eljhm5KrtdyoszGjYZhg8mIY2e0rAlgV/view?usp=sharing)
+- Resume:- [View Resume](https://drive.google.com/file/d/1eljhm5KrtdyoszGjYZhg8mIY2e0rAlgV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
