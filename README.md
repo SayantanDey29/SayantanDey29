@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I am Sayantan Dey👋</h1>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <p align="center">I am a machine learning engineer with hands-on experience in developing real-time, production-grade AI solutions. My passion lies in solving challenging problems across computer vision, generative AI, and data-driven systems, with a strong focus on measurable performance and practical applicability. I work extensively with Python and build scalable applications using FastAPI and Streamlit, continuously exploring emerging architectures, optimization strategies, and modern AI methodologies.
 
 My expertise spans end-to-end machine learning and deep learning workflows using TensorFlow and PyTorch, combined with advanced image analysis using OpenCV and MediaPipe. I have strong experience working with detection, recognition, and tracking pipelines leveraging models like RetinaFace, ResNet50, YOLO, YuNet, and SFace, along with tracking algorithms such as DeepSORT to achieve robust system performance across diverse environments.
