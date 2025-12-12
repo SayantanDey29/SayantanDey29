@@ -7,8 +7,8 @@ On the generative AI front, I specialize in retrieval-augmented generation (RAG)
 
 I believe in continuous learning, research-oriented experimentation, and building scalable solutions that deliver real-world impact.</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantandey&label=Profile%20views&color=0e75b6&style=flat" alt="sayantandey" /> </p>
 <!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://sayantandey29.github.io/) -->
 
@@ -16,7 +16,8 @@ I believe in continuous learning, research-oriented experimentation, and buildin
 - Resume:- [View Resume](https://drive.google.com/file/d/1eljhm5KrtdyoszGjYZhg8mIY2e0rAlgV/view?usp=sharing)
 - You can find me on [LinkedIn](https://www.linkedin.com/in/sayantandey29)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - <p align="left"><b>Programming Languages:</b> Python</p>
 - <p align="left"><b>Data Preprocessing & Visualization:</b> NumPy, Pandas, Matplotlib, Seaborn</p>
 - <p align="left"><b>ML/DL Libraries:</b> scikit-learn, TensorFlow, PyTorch, Streamlit, FastAPI</p>
