@@ -32,4 +32,4 @@ I believe in continuous learning, research-oriented experimentation, and buildin
 
 - <p>Published in the proceedings of the Fifth International Conference on Emerging Trends in Mathematical Sciences & Computing (IEMSC-24).</p>
 - <p>Conducted a comprehensive review of machine learning-based classification techniques applied to social media data for detecting depression and suicidal ideation. Evaluated algorithms on the basis of accuracy, interpretability, and clinical relevance.</p>
-- <p>Check out the research paper on <a href="https://link.springer.com/chapter/10.1007/978-3-031-71125-1_3">Publication Link</a></p>
+- <p>Check out the research paper on <a href="https://link.springer.com/chapter/10.1007/978-3-031-71125-1_3">Springer Nature Link</a></p>
