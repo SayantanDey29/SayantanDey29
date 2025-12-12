@@ -25,3 +25,6 @@ I believe in continuous learning, research-oriented experimentation, and buildin
 - <p align="left"><b>Web & Development:</b> Streamlit, FastAPI</p>
 - <p align="left"><b>Databases:</b> MySQL, FAISS</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+- <p>Published in the proceedings of the Fifth International Conference on Emerging Trends in Mathematical Sciences & Computing (IEMSC-24).</p>
+- <p>Conducted a comprehensive review of machine learning-based classification techniques applied to social media data for detecting depression and suicidal ideation. Evaluated algorithms on the basis of accuracy, interpretability, and clinical relevance.</p>
+
