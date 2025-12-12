@@ -17,7 +17,10 @@ I believe in continuous learning, research-oriented experimentation, and buildin
 - You can find me on [LinkedIn](https://www.linkedin.com/in/sayantandey29)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-- <p align="left" color="blue"><b>Programming Languages:</b> Python</p>
+<div style="backgournd-color:blue;color:white">
+  <h1>Skills</h1>
+</div>
+- <p align="left"><b>Programming Languages:</b> Python</p>
 - <p align="left"><b>Data Preprocessing & Visualization:</b> NumPy, Pandas, Matplotlib, Seaborn</p>
 - <p align="left"><b>ML/DL Libraries:</b> scikit-learn, TensorFlow, PyTorch, Streamlit, FastAPI</p>
 - <p align="left"><b>Computer Vision & NLP Libraries:</b> OpenCV, NLTK, spaCy</p>
