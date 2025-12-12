@@ -14,7 +14,7 @@ I believe in continuous learning, research-oriented experimentation, and buildin
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### 📬 Contact
+## Contact
 - **Email:** sayantandey0429@gmail.com  
 - **Resume:** [View Resume](https://drive.google.com/file/d/1eljhm5KrtdyoszGjYZhg8mIY2e0rAlgV/view?usp=sharing)  
 - **LinkedIn:** [Sayantan Dey](https://www.linkedin.com/in/sayantandey29)
@@ -25,7 +25,7 @@ I believe in continuous learning, research-oriented experimentation, and buildin
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🛠️ Skills
+## Skills
 
 ### **Programming Languages**
 - Python
@@ -65,7 +65,7 @@ I believe in continuous learning, research-oriented experimentation, and buildin
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 📄 Research Publication
+## Research Publication
 
 - Published in the *Proceedings of the Fifth International Conference on Emerging Trends in Mathematical Sciences & Computing (IEMSC-24)*.
 - Conducted a comprehensive review of machine learning-based classifiers applied to social media data for detecting depression and suicidal ideation.
