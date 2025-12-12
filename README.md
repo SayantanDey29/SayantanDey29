@@ -17,7 +17,9 @@ I believe in continuous learning, research-oriented experimentation, and buildin
 - You can find me on [LinkedIn](https://www.linkedin.com/in/sayantandey29)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - <p align="left"><b>Programming Languages:</b> Python</p>
 - <p align="left"><b>Data Preprocessing & Visualization:</b> NumPy, Pandas, Matplotlib, Seaborn</p>
 - <p align="left"><b>ML/DL Libraries:</b> scikit-learn, TensorFlow, PyTorch, Streamlit, FastAPI</p>
@@ -25,7 +27,9 @@ I believe in continuous learning, research-oriented experimentation, and buildin
 - <p align="left"><b>Agentic Frameworks:</b> LangChain, LangGraph, LangSmith, Ollama</p>
 - <p align="left"><b>Web & Development:</b> Streamlit, FastAPI</p>
 - <p align="left"><b>Databases:</b> MySQL, FAISS</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 - <p>Published in the proceedings of the Fifth International Conference on Emerging Trends in Mathematical Sciences & Computing (IEMSC-24).</p>
 - <p>Conducted a comprehensive review of machine learning-based classification techniques applied to social media data for detecting depression and suicidal ideation. Evaluated algorithms on the basis of accuracy, interpretability, and clinical relevance.</p>
 - <p>Check out the research paper on <a href="https://link.springer.com/chapter/10.1007/978-3-031-71125-1_3">Publication Link</a></p>
