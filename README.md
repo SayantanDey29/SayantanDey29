@@ -17,7 +17,6 @@ I believe in continuous learning, research-oriented experimentation, and buildin
 
 <h3 align="left">Programming Languages :</h3>
 <p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<img align="right" alt="Coding" width="400" src="https://github.com/SayantanDey29/SayantanDey29/blob/main/GitHub.gif">
 
 <h3 align="left">Tools, Libraries & Frameworks :</h3>
 <p align="left">
