@@ -13,7 +13,7 @@ I believe in continuous learning, research-oriented experimentation, and buildin
 <!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://sayantandey29.github.io/) -->
 
 - Email ID:- **sayantandey0429@gmail.com**
-- Resume:- [View Resume](https://drive.google.com/file/d/1PSPLy_Whr7YyDsaikF-52Re9GXK9gegU/view?usp=sharing)
+- Resume:- [View Resume](https://drive.google.com/file/d/1RjvO47uozMf3sflnnqz7dOc9e19vy6pC/view?usp=sharing)
 - You can find me on [LinkedIn](https://www.linkedin.com/in/sayantandey29)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
