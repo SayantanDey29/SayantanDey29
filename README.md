@@ -26,7 +26,7 @@ I believe in continuous learning, research-oriented experimentation, and buildin
 - <p align="left"><b>Computer Vision & NLP Libraries:</b> OpenCV, NLTK, spaCy</p>
 - <p align="left"><b>Agentic Frameworks:</b> LangChain, LangGraph, LangSmith, Ollama</p>
 - <p align="left"><b>Web & Development:</b> Streamlit, FastAPI</p>
-- <p align="left"><b>Databases:</b> MySQL, FAISS</p>
+- <p align="left"><b>Databases:</b> MySQL, Supabase, FAISS</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
