@@ -1,0 +1,17 @@
+<svg width="940" height="60" viewBox="0 0 940 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#78350f"/>
+      <stop offset="50%" stop-color="#92400e"/>
+      <stop offset="100%" stop-color="#b45309"/>
+    </linearGradient>
+  </defs>
+  <rect width="940" height="60" rx="14" fill="url(#bg)"/>
+  <circle cx="870" cy="10"  r="42" fill="#fbbf24" opacity="0.18"/>
+  <circle cx="820" cy="38"  r="26" fill="#fbbf24" opacity="0.15"/>
+  <circle cx="780" cy="8"   r="18" fill="#fbbf24" opacity="0.13"/>
+  <circle cx="750" cy="46"  r="11" fill="#fbbf24" opacity="0.10"/>
+  <circle cx="910" cy="52"  r="16" fill="#fbbf24" opacity="0.12"/>
+  <circle cx="730" cy="22"  r="7"  fill="#fbbf24" opacity="0.09"/>
+  <text x="32" y="38" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="600" fill="#fef3c7" letter-spacing="2">ACHIEVEMENTS</text>
+</svg>
