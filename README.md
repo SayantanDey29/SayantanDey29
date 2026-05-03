@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sayantandey&label=Profile%20views&color=6366F1&style=for-the-badge" alt="Profile views" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/sayantandey?label=Followers&style=for-the-badge&color=8B5CF6&cacheSeconds=3600" alt="followers" />
+  <img src="https://badgen.net/github/followers/sayantandey?label=Followers&color=8B5CF6" />
 </p>
 
 <br/>
