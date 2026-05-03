@@ -1,6 +1,14 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hi+there%2C+I+am+Sayantan+Dey;AI+Engineer;Computer+Vision+%7C+Generative+AI;Building+Production-Grade+AI+Solutions" alt="Typing SVG" />
-</h1>
+<div align="center">
+
+### Hi there, I am
+
+<img src="header.svg" alt="Sayantan Dey - AI Engineer" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+Engineer;Computer+Vision+%7C+Generative+AI;Building+Production-Grade+AI+Solutions" alt="Typing SVG" />
+
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
