@@ -1,13 +1,5 @@
 <div align="center">
-
-### Hi there, I am
-
 <img src="header.svg" alt="Sayantan Dey - AI Engineer" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+Engineer;Computer+Vision+%7C+Generative+AI;Building+Production-Grade+AI+Solutions" alt="Typing SVG" />
-
 </div>
 
 <p align="center">
