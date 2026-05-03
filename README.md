@@ -22,12 +22,6 @@
 <br/>
 
 <p align="center">
-  <img src="heading_about.svg" width="940" alt="ABOUT ME"/>
-</p>
-
-<br/>
-
-<p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding"/>
 </p>
 
@@ -52,6 +46,14 @@ On the <b>generative AI</b> front, I specialize in <b>RAG pipelines</b>, impleme
 <p align="justify">
 I believe in <b>continuous learning, research-oriented experimentation</b>, and building scalable solutions that deliver <b>real-world impact</b>.
 </p>
+
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<br/>
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 <p align="center">
