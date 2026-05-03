@@ -125,13 +125,8 @@
     <animateTransform attributeName="transform" type="translate" values="940,0;-940,0" dur="5s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Wave hand emoji via Twemoji -->
-  <image href="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f44b.svg" x="348" y="30" width="22" height="22">
-    <animateTransform attributeName="transform" type="rotate" values="-15 359 41;15 359 41;-15 359 41" dur="1.5s" repeatCount="indefinite"/>
-  </image>
-
   <!-- Hi there label -->
-  <text x="492" y="50" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a78bfa" letter-spacing="5">&#x1F44B; HI THERE, I AM</text>
+  <text x="470" y="50" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a78bfa" letter-spacing="5">👋 HI THERE, I AM</text>
 
   <!-- Name with glow -->
   <text x="470" y="112" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="700" fill="white" filter="url(#nameglow)" letter-spacing="2">Sayantan Dey</text>
