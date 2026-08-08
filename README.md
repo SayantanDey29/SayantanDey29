@@ -68,7 +68,7 @@ I believe in <b>continuous learning, research-oriented experimentation</b>, and 
     <img src="https://img.shields.io/badge/LinkedIn-sayantandey29-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1RjvO47uozMf3sflnnqz7dOc9e19vy6pC/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/10ksjfTGn84Te8y_WPIrSvkuEM5WKsb5i/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
 </p>
