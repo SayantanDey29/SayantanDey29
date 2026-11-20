@@ -1,191 +1,92 @@
-<img src="header.svg" alt="Sayantan Dey - AI Engineer" width="100%"/>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+<!-- ════════════════════════════════ HEADER ════════════════════════════════ -->
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayantandey&label=Profile%20views&color=6366F1&style=for-the-badge" alt="Profile views" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/sayantandey?label=Followers&style=for-the-badge&color=8B5CF6&v=1" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4338CA,100:7C3AED&height=200&section=header&text=Sayantan%20Dey&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=Python%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20NLP%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Generative%20AI&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Sayantan Dey — AI Engineer"/>
+
+<a href="https://github.com/SayantanDey29">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=640&lines=Building+production-grade+AI+systems;Real-time+detection%2C+tracking+%26+recognition;RAG+pipelines+and+agentic+workflows" alt="Typing intro"/>
+</a>
 
 <br/>
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
-<p align="center">
-  <img src="heading_about.svg" width="940" alt="ABOUT ME"/>
-</p>
+<a href="https://www.linkedin.com/in/sayantandey29/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn"/></a>
+<a href="mailto:sayantandey0429@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<a href="https://drive.google.com/file/d/1zIMPy6agOkyGGuggOjh-EdAPPBelN74r/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=googledrive&logoColor=4285F4" alt="Resume"/></a>
+<img src="https://komarev.com/ghpvc/?username=SayantanDey29&label=Profile%20Views&color=4338CA&style=for-the-badge" alt="Profile views"/>
+
+</div>
 
 <br/>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding"/>
-</p>
+<!-- ════════════════════════════════ ABOUT ════════════════════════════════ -->
+## 👋 About Me
 
-<br/>
+I'm an **AI Engineer** with 2+ years of industry experience building **real-time, production-grade AI systems**. I care about measurable performance, clean architecture, and solutions that hold up in the real world.
 
-<p align="justify">
-I am an <b>AI Engineer</b> with hands-on experience in developing <b>real-time, production-grade AI solutions</b>. My passion lies in solving challenging problems across <b>computer vision, generative AI, and data-driven systems</b>, with a strong focus on measurable performance and practical applicability.
-</p>
-
-<p align="justify">
-I work extensively with <b>Python</b> and build scalable applications using <b>FastAPI</b> and <b>Streamlit</b>, continuously exploring emerging architectures, optimization strategies, and modern AI methodologies.
-</p>
-
-<p align="justify">
-My expertise spans <b>end-to-end machine learning and deep learning workflows</b> using TensorFlow and PyTorch, combined with advanced image analysis using OpenCV and MediaPipe. I have strong experience with detection, recognition, and tracking pipelines leveraging models like <b>RetinaFace, ResNet50, YOLO, YuNet, and SFace</b>, along with tracking algorithms such as <b>DeepSORT</b>.
-</p>
-
-<p align="justify">
-On the <b>generative AI</b> front, I specialize in <b>RAG pipelines</b>, implementing LangChain, LangGraph, and LangSmith with Ollama for controlled inference. I apply semantic chunking, vector similarity search using FAISS, and structured prompting from zero-shot to chain-of-thought reasoning.
-</p>
-
-<p align="justify">
-I believe in <b>continuous learning, research-oriented experimentation</b>, and building scalable solutions that deliver <b>real-world impact</b>.
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<br/>
-
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
-<p align="center">
-  <img src="heading_connect.svg" width="940" alt="CONNECT WITH ME"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="mailto:sayantandey0429@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sayantandey0429%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sayantandey29">
-    <img src="https://img.shields.io/badge/LinkedIn-sayantandey29-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1zIMPy6agOkyGGuggOjh-EdAPPBelN74r/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-View%20PDF-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<br/>
-
-<!-- ═══════════════════════ TECHNICAL EXPERTISE ═══════════════════════ -->
-<p align="center">
-  <img src="heading_tech.svg" width="940" alt="TECHNICAL EXPERTISE"/>
-</p>
-
-<br/>
-
-<table align="center" border="0" width="100%">
+<table>
 <tr>
-<td align="center" valign="top" width="50%">
+<td width="34%" valign="top" align="center">
 
-<h3 align="center">🖥️ Programming Languages</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
+### 👁️ Computer Vision
+<sub>Real-time detection, tracking, recognition and segmentation pipelines</sub>
 
 </td>
-<td align="center" valign="top" width="50%">
+<td width="33%" valign="top" align="center">
 
-<h3 align="center">📊 Data Preprocessing & Visualization</h3>
+### 🧠 Generative AI
+<sub>RAG systems, semantic retrieval, reranking and structured prompting</sub>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-</p>
+</td>
+<td width="33%" valign="top" align="center">
+
+### ⚙️ AI Automation
+<sub>Agentic LLM workflows and API-driven automation for business use cases</sub>
 
 </td>
 </tr>
+</table>
 
-<tr><td colspan="2"><br/></td></tr>
+> 🔭 &nbsp;**Open to new opportunities** in Computer Vision, Generative AI and Agentic AI — feel free to reach out.
 
+<br/>
+
+<!-- ════════════════════════════════ EXPERIENCE ════════════════════════════════ -->
+## 💼 Experience
+
+<table>
 <tr>
-<td align="center" valign="top" width="50%">
+<td width="30%" valign="top">
 
-<h3 align="center">🤖 ML / DL Libraries</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-</p>
+**AI Engineer**<br/>
+🏢 E2M Solutions<br/>
+<sub>📅 Feb 2026 – Nov 2026</sub>
 
 </td>
-<td align="center" valign="top" width="50%">
+<td width="70%" valign="top">
 
-<h3 align="center">👁️ Computer Vision & NLP</h3>
+- Managed delivery across **three client accounts**, translating requirements into shipped AI solutions
+- Built **AI automation workflows** for brand-detail extraction, website generation and **PSD-to-website conversion**
+- Engineered an **automated reporting pipeline** unifying Meta Ads, Google Ads, GoHighLevel and Ahrefs data
+- Automated **proposal generation** from call transcripts, emails, documents and notes
+- Shipped **real-time Instagram & Facebook engagement bots** for comment responses and lead engagement
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white" alt="NLTK"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
-</p>
 
 </td>
 </tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
 <tr>
-<td align="center" valign="top" width="50%">
+<td width="30%" valign="top">
 
-<h3 align="center">🦜 Agentic Frameworks</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangSmith-4A90E2?style=for-the-badge&logo=smart&logoColor=white" alt="LangSmith"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-</p>
+**Assistant ML Engineer (L1)**<br/>
+🏢 Capsitech IT Services<br/>
+<sub>📅 Jul 2024 – Feb 2026</sub>
 
 </td>
-<td align="center" valign="top" width="50%">
+<td width="70%" valign="top">
 
-<h3 align="center">🗄️ Databases</h3>
+- Developed a **real-time multi-person tracking & recognition pipeline** with high accuracy in dense, dynamic scenes
+- Implemented **object segmentation with SAM**; researched **gait recognition** and **head-pose estimation**
+- Built a scalable **RAG-based HR chatbot** with semantic chunking, FAISS retrieval, reranking and context-aware prompting
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
-</p>
 
 </td>
 </tr>
@@ -193,103 +94,226 @@ I believe in <b>continuous learning, research-oriented experimentation</b>, and 
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+<!-- ════════════════════════════════ PROJECTS ════════════════════════════════ -->
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📑 Document QA Assistant
+
+RAG-based PDF Q&A system with automated text extraction, chunking, embeddings, **FAISS vector search** and **reranking** for accurate, context-aware answers.
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
+
+<a href="https://github.com/SayantanDey29/Document_QA_Assistant"><img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Harmful Content & Suicidal Thought Classifier
+
+NLP-driven deep learning classifier that labels social media text as **toxic, severe toxic, insult, obscene, threat** or **identity hate**.
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLTK-154F3C?style=flat-square&logo=python&logoColor=white"/>
+
+<a href="https://github.com/SayantanDey29/Final_Year_Project"><img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- ═══════════════════════ RESEARCH ═══════════════════════ -->
-<p align="center">
-  <img src="heading_research.svg" width="940" alt="RESEARCH PUBLICATION"/>
-</p>
+<!-- ════════════════════════════════ RESEARCH ════════════════════════════════ -->
+## 📚 Research & Publications
+
+<table>
+<tr>
+<td width="100%">
+
+### A Systematic Review on the Depression and Suicidal Thought Detection Using Machine Learning Based Classifiers
+
+📖 **Published in:** Proceedings of the 5th International Conference on Emerging Trends in Mathematical Sciences & Computing (**IEMSC-24**) · **Springer Nature**
+
+Reviews and evaluates machine learning techniques for detecting depression and suicidal ideation from social media data, with a focus on **accuracy, interpretability and clinical relevance**.
+
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-71125-1_3"><img src="https://img.shields.io/badge/Read%20Paper-0D1117?style=for-the-badge&logo=googlescholar&logoColor=4285F4"/></a>
+<a href="https://drive.google.com/file/d/1ivi5BKHEP5rzde8_k1XituoJDSGCZGUp/view?usp=sharing"><img src="https://img.shields.io/badge/Certificate-0D1117?style=for-the-badge&logo=googledrive&logoColor=4285F4"/></a>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<p align="center">
-  <a href="https://link.springer.com/chapter/10.1007/978-3-031-71125-1_3">
-    <img src="https://img.shields.io/badge/Conference-IEMSC--24-6366F1?style=for-the-badge&labelColor=1e293b" alt="Conference"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://link.springer.com/chapter/10.1007/978-3-031-71125-1_3">
-    <img src="https://img.shields.io/badge/Publisher-Springer%20Nature-22c55e?style=for-the-badge&logo=springer&labelColor=1e293b" alt="Publisher"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://link.springer.com/chapter/10.1007/978-3-031-71125-1_3">
-    <img src="https://img.shields.io/badge/Status-Published-3b82f6?style=for-the-badge&labelColor=1e293b" alt="Status"/>
-  </a>
-</p>
+<!-- ════════════════════════════════ TECH STACK ════════════════════════════════ -->
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td width="30%"><img align="left" width="100%" height="1" src="https://readme-typing-svg.demolab.com?lines=%20&width=1200&height=1" alt=""/><b>💻 Programming Language</b></td>
+<td width="70%">
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+</td>
+</tr>
+<tr>
+<td><b>📊 Data Processing & Visualization</b></td>
+<td>
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=E70488"/>
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=python&logoColor=11557C"/>
+<img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=python&logoColor=4C72B0"/>
+</td>
+</tr>
+<tr>
+<td><b>🤖 AI & Development</b></td>
+<td>
+<img src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/NLTK-0D1117?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/spaCy-0D1117?style=for-the-badge&logo=spacy&logoColor=09A3D5"/>
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=langchain&logoColor=FF6B6B"/>
+<img src="https://img.shields.io/badge/LangSmith-0D1117?style=for-the-badge&logo=langchain&logoColor=4A90E2"/>
+<img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+</td>
+</tr>
+<tr>
+<td><b>🗄️ Databases & Vector Stores</b></td>
+<td>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+<img src="https://img.shields.io/badge/FAISS-0D1117?style=for-the-badge&logo=meta&logoColor=0467DF"/>
+</td>
+</tr>
+<tr>
+<td><b>🔀 Version Control</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</td>
+</tr>
+<tr>
+<td><b>🚀 Deployment</b></td>
+<td>
+<img src="https://img.shields.io/badge/Railway-0D1117?style=for-the-badge&logo=railway&logoColor=FFFFFF"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<p align="center">
-  <b>Machine Learning-Based Classification Techniques for Depression and Suicidal Ideation Detection in Social Media</b>
-</p>
+<!-- ════════════════════════════════ EDUCATION ════════════════════════════════ -->
+## 🎓 Education
+
+<table>
+<tr>
+<th align="left" width="22%"><img align="left" width="100%" height="1" src="https://readme-typing-svg.demolab.com?lines=%20&width=1200&height=1" alt=""/>Qualification</th>
+<th align="left" width="48%">Institution</th>
+<th align="center" width="16%">Year</th>
+<th align="center" width="14%">Score</th>
+</tr>
+<tr>
+<td><b>B.Tech</b></td>
+<td>Haldia Institute of Technology</td>
+<td align="center">2020 – 2024</td>
+<td align="center"><b>9.41</b> CGPA</td>
+</tr>
+<tr>
+<td><b>Class XII</b> · WBCHSE</td>
+<td>Sonamukhi Bindu Basani Jubilee High School</td>
+<td align="center">2019</td>
+<td align="center"><b>91.4%</b></td>
+</tr>
+<tr>
+<td><b>Class X</b> · WBBSE</td>
+<td>Sonamukhi Bindu Basani Jubilee High School</td>
+<td align="center">2017</td>
+<td align="center"><b>92.14%</b></td>
+</tr>
+</table>
 
 <br/>
 
-<p align="center" style="max-width:800px; margin: 0 auto;">
-Published in the proceedings of the Fifth International Conference on Emerging Trends in Mathematical Sciences &amp; Computing (IEMSC-24). Conducted a comprehensive review of machine learning-based classification techniques applied to social media data for detecting depression and suicidal ideation. Evaluated algorithms on the basis of accuracy, interpretability, and clinical relevance.
-</p>
+<!-- ════════════════════════════════ CERTIFICATIONS ════════════════════════════════ -->
+## 📜 Certifications
+
+<table>
+<tr>
+<th align="center" width="14%"><img align="left" width="100%" height="1" src="https://readme-typing-svg.demolab.com?lines=%20&width=1200&height=1" alt=""/>Issuer</th>
+<th align="left" width="52%">Certification</th>
+<th align="center" width="17%">Date</th>
+<th align="center" width="17%">Credential</th>
+</tr>
+<tr>
+<td align="center"><b>NPTEL</b></td>
+<td><b>Introduction to Machine Learning</b><br/><sub>Score: 73%</sub></td>
+<td align="center">Sep 2022</td>
+<td align="center"><a href="https://drive.google.com/file/d/14Hk4VIOl8Wwsyb8adA3ZCVJKnsbD4nGQ/view?usp=sharing"><img src="https://img.shields.io/badge/View-0D1117?style=flat-square&logo=googledrive&logoColor=4285F4"/></a></td>
+</tr>
+<tr>
+<td align="center"><b>NPTEL</b></td>
+<td><b>The Joy of Computing using Python</b><br/><sub>Score: 70%</sub></td>
+<td align="center">Oct 2022</td>
+<td align="center"><a href="https://drive.google.com/file/d/1WnIFHSfw4cY8img98R4SvHA3Fm0DO75x/view?usp=sharing"><img src="https://img.shields.io/badge/View-0D1117?style=flat-square&logo=googledrive&logoColor=4285F4"/></a></td>
+</tr>
+<tr>
+<td align="center"><b>PwC</b></td>
+<td><b>PwC Launchpad Program 2023</b></td>
+<td align="center">Sep 2023</td>
+<td align="center"><a href="https://drive.google.com/file/d/16z6RjCNQ_8DdcPRKqBWJuYCWLV6tL6eT/view?usp=sharing"><img src="https://img.shields.io/badge/View-0D1117?style=flat-square&logo=googledrive&logoColor=4285F4"/></a></td>
+</tr>
+<tr>
+<td align="center"><b>Accenture</b></td>
+<td><b>Data Processing & Visualization</b></td>
+<td align="center">—</td>
+<td align="center"><a href="https://drive.google.com/file/d/1464jRLbU0-GpVziliNx1Y2ILca3stRcq/view?usp=sharing"><img src="https://img.shields.io/badge/View-0D1117?style=flat-square&logo=googledrive&logoColor=4285F4"/></a></td>
+</tr>
+</table>
 
 <br/>
 
-<p align="center">
-  <a href="https://link.springer.com/chapter/10.1007/978-3-031-71125-1_3">
-    <img src="https://img.shields.io/badge/Read%20Paper-Springer%20Link-00AB55?style=for-the-badge&logo=springer&logoColor=white&labelColor=1e293b" alt="Read on Springer"/>
-  </a>
-</p>
+<!-- ════════════════════════════════ GITHUB STATS ════════════════════════════════ -->
+## 📊 GitHub Activity
+
+<table>
+<tr>
+<th width="50%" align="center"><img align="left" width="100%" height="1" src="https://readme-typing-svg.demolab.com?lines=%20&width=1200&height=1" alt=""/>🔥 Contribution Streak</th>
+<th width="50%" align="center">📈 Profile Stats</th>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle">
+<img src="https://streak-stats.demolab.com?user=SayantanDey29&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=A5B4FC&sideLabels=E2E8F0&dates=94A3B8&card_width=495&card_height=195" alt="GitHub streak" width="100%"/>
+</td>
+<td width="50%" align="center" valign="middle">
+<img src="https://github-stats-extended.vercel.app/api?username=SayantanDey29&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=7C3AED&text_color=E2E8F0&ring_color=7C3AED&card_width=495" alt="GitHub stats" width="100%"/>
+</td>
+</tr>
+<tr>
+<th colspan="2" align="center">📅 Contribution Graph</th>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SayantanDey29&bg_color=0D1117&color=A5B4FC&line=7C3AED&point=FFFFFF&area=true&area_color=4338CA&hide_border=true&custom_title=Contributions%20in%20the%20last%2031%20days" alt="Contribution graph" width="100%"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<br/>
-
-<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
-<p align="center">
-  <img src="heading_github.svg" width="940" alt="GITHUB STATISTICS"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayantandey&theme=radical&hide_border=true&background=0d1117&stroke=6366f1&ring=8b5cf6&fire=f97316&currStreakLabel=6366f1&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<br/>
-
-<!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
-<p align="center">
-  <img src="heading_achievements.svg" width="940" alt="ACHIEVEMENTS"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayantandey&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<br/>
-
+<!-- ════════════════════════════════ FOOTER ════════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting;Let's+build+something+amazing;Happy+Coding" alt="Footer Message" />
-</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=100&section=footer" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4338CA,100:0F172A&height=110&section=footer" width="100%" alt="footer"/>
+
+</div>
